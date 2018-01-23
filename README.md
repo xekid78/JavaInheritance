@@ -1,4 +1,4 @@
-# Java_SampleCode31
+# JavaSampleCode31
 継承
 
 #### 処理
